@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Explore"
+  short_description: "Think through ideas, investigate problems, and clarify…"
+  default_prompt: "Use $openspec-explore to help with my current task: Think through ideas, investigate problems, and clarify requirements before committing to a change using /opsx:explore."

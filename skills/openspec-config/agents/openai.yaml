@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Config"
+  short_description: "Configure OpenSpec project settings and global CLI…"
+  default_prompt: "Use $openspec-config to help with my current task: Configure OpenSpec project settings and global CLI configuration using openspec/config.yaml and openspec config commands."

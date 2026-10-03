@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Update"
+  short_description: "Run openspec update to regenerate AI tool instruction files…"
+  default_prompt: "Use $openspec-update to help with my current task: Run openspec update to regenerate AI tool instruction files after upgrading the OpenSpec CLI."

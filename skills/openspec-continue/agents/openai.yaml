@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Continue"
+  short_description: "Create the next artifact in the dependency chain with…"
+  default_prompt: "Use $openspec-continue to help with my current task: Create the next artifact in the dependency chain with /opsx:continue, building up a change incrementally."

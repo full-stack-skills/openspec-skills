@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Archive"
+  short_description: "Archive a completed change with /opsx:archive, merging delta…"
+  default_prompt: "Use $openspec-archive to help with my current task: Archive a completed change with /opsx:archive, merging delta specs into main specs and preserving the change for history."

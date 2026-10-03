@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec New"
+  short_description: "Start a new OpenSpec change with /opsx:new, creating a change…"
+  default_prompt: "Use $openspec-new to help with my current task: Start a new OpenSpec change with /opsx:new, creating a change folder with metadata and scaffolding."

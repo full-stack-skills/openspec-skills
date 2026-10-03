@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Schema"
+  short_description: "Create and manage custom workflow schemas using openspec…"
+  default_prompt: "Use $openspec-schema to help with my current task: Create and manage custom workflow schemas using openspec schema init/fork/validate/which."

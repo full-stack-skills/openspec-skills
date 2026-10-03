@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Sync"
+  short_description: "Sync delta specs from a change into main specs using…"
+  default_prompt: "Use $openspec-sync to help with my current task: Sync delta specs from a change into main specs using /opsx:sync, without archiving the change."

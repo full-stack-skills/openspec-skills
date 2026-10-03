@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Install"
+  short_description: "Install the OpenSpec CLI globally via npm, pnpm, yarn, bun, or…"
+  default_prompt: "Use $openspec-install to help with my current task: Install the OpenSpec CLI globally via npm, pnpm, yarn, bun, or nix."

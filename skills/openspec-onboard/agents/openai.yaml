@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Onboard"
+  short_description: "Guided onboarding through the complete OpenSpec workflow using…"
+  default_prompt: "Use $openspec-onboard to help with my current task: Guided onboarding through the complete OpenSpec workflow using /opsx:onboard, walking the user through a real change in their codebase."

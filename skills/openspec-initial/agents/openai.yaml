@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Initial"
+  short_description: "Run openspec init to initialize OpenSpec in a project…"
+  default_prompt: "Use $openspec-initial to help with my current task: Run openspec init to initialize OpenSpec in a project directory, creating the openspec/ folder structure and configuring AI tool integrations."

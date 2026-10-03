@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Verify"
+  short_description: "Validate that implementation matches change artifacts using…"
+  default_prompt: "Use $openspec-verify to help with my current task: Validate that implementation matches change artifacts using /opsx:verify, checking completeness, correctness, and coherence."

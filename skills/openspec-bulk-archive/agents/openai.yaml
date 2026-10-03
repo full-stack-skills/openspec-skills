@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Bulk Archive"
+  short_description: "Archive multiple completed changes at once with…"
+  default_prompt: "Use $openspec-bulk-archive to help with my current task: Archive multiple completed changes at once with /opsx:bulk-archive, handling spec conflicts between changes."

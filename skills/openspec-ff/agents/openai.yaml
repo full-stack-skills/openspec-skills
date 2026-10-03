@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Ff"
+  short_description: "Fast-forward through artifact creation with /opsx:ff…"
+  default_prompt: "Use $openspec-ff to help with my current task: Fast-forward through artifact creation with /opsx:ff, generating all planning artifacts (proposal, specs, design, tasks) at once."

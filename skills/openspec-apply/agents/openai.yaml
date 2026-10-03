@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenSpec Apply"
+  short_description: "Implement tasks from the change using /opsx:apply, working…"
+  default_prompt: "Use $openspec-apply to help with my current task: Implement tasks from the change using /opsx:apply, working through the task list and checking off items."
